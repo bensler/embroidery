@@ -26,14 +26,14 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="4.9373266"
-     inkscape:cx="118.78898"
-     inkscape:cy="165.47417"
-     inkscape:window-width="3440"
-     inkscape:window-height="1363"
-     inkscape:window-x="1680"
-     inkscape:window-y="40"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g9" />
+     inkscape:cx="98.636375"
+     inkscape:cy="228.05864"
+     inkscape:window-width="1635"
+     inkscape:window-height="1253"
+     inkscape:window-x="2476"
+     inkscape:window-y="142"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
   <metadata
      id="metadata4">
     <inkstitch:min_stitch_len_mm>0</inkstitch:min_stitch_len_mm>
@@ -81,14 +81,122 @@
      id="layer1"
      inkscape:label="Paths"
      style="display:inline">
-    <path
-       id="rect1"
-       style="display:inline;fill:#f74900;fill-opacity:0.878431"
-       d="M 115.8649,101.04671 H 241.88272 V 111.1109 H 115.8649 Z" />
+    <text
+       xml:space="preserve"
+       style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0;stroke-linecap:round"
+       x="18.228489"
+       y="296.7193"
+       id="text17"
+       inkscape:label="nicht unbedingt schlecht"><tspan
+         sodipodi:role="line"
+         id="tspan17"
+         x="18.228489"
+         y="296.7193"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">NICHT UNBEDINGT SCHLECHT</tspan></text>
+    <g
+       id="g10"
+       inkscape:label="Bild: Kaffeemaschine">
+      <path
+         id="path17"
+         style="display:inline;fill:#f74900;fill-opacity:0.878431"
+         d="m 117.89029,237.15276 123.78989,0 -1.01269,15.53273 -124.19497,0.81016 z"
+         inkscape:label="Bottom"
+         sodipodi:nodetypes="ccccc" />
+      <g
+         id="g6"
+         inkscape:label="Body">
+        <path
+           id="path11"
+           style="display:inline;fill:#f74900;fill-opacity:0.878431"
+           d="m 197.8931,116.23712 42.57184,0 0,114.77672 -12.33057,0.0555 -1.81154,-98.95142 -12.53094,0.0839 -1.89985,98.48604 -12.78371,-0.28166 z"
+           inkscape:label="Body"
+           sodipodi:nodetypes="ccccccccc" />
+        <g
+           id="g5"
+           inkscape:label="Dots">
+          <path
+             d="m 216.81919,223.3553 6.11486,1e-5 -0.40507,7.83625 -6.11488,-0.40507 z"
+             style="display:inline;fill:#f74900;fill-opacity:0.878431"
+             id="path1-2"
+             sodipodi:nodetypes="ccccc"
+             inkscape:label="Dot-7" />
+          <path
+             d="m 216.92018,212.00043 6.11486,1e-5 -0.40507,7.83625 -6.11488,-0.40507 z"
+             style="display:inline;fill:#f74900;fill-opacity:0.878431"
+             id="path1-6"
+             sodipodi:nodetypes="ccccc"
+             inkscape:label="Dot-6" />
+          <path
+             d="m 216.84458,200.43034 6.11486,1e-5 -0.40507,7.83625 -6.11488,-0.40507 z"
+             style="display:inline;fill:#f74900;fill-opacity:0.878431"
+             id="path1-93"
+             sodipodi:nodetypes="ccccc"
+             inkscape:label="Dot-5" />
+          <path
+             d="m 216.55318,188.96179 6.11486,1e-5 -0.40507,7.83625 -6.11488,-0.40507 z"
+             style="display:inline;fill:#f74900;fill-opacity:0.878431"
+             id="path1-9"
+             sodipodi:nodetypes="ccccc"
+             inkscape:label="Dot-4" />
+          <path
+             d="m 216.55206,178.42865 6.11486,1e-5 -0.40507,7.83625 -6.11488,-0.40507 z"
+             style="display:inline;fill:#f74900;fill-opacity:0.878431"
+             id="path1"
+             sodipodi:nodetypes="ccccc"
+             inkscape:label="Dot-3" />
+          <path
+             id="path13"
+             style="display:inline;fill:#f74900;fill-opacity:0.878431"
+             d="m 216.72921,166.66927 6.11486,10e-6 -0.40507,7.83625 -6.11488,-0.40507 z"
+             inkscape:label="Dot-2"
+             sodipodi:nodetypes="ccccc" />
+          <path
+             id="path12"
+             style="display:inline;fill:#f74900;fill-opacity:0.878431"
+             d="m 216.32413,153.09917 6.11486,1e-5 -0.40507,7.83625 -6.11488,-0.40507 z"
+             inkscape:label="Dot-1"
+             sodipodi:nodetypes="ccccc" />
+        </g>
+      </g>
+      <g
+         id="g14"
+         inkscape:label="Kanne"
+         style="display:inline">
+        <path
+           id="path16"
+           style="display:inline;fill:#ffffff;fill-opacity:1"
+           d="m 124.37153,212.64557 65.05365,1.01269 0.57753,10.35971 -5.43847,7.60349 -53.30639,10e-6 -6.26315,-7.42352 z"
+           inkscape:label="Bottom"
+           sodipodi:nodetypes="ccccccc" />
+        <path
+           id="path15"
+           style="display:inline;fill:#f74900;fill-opacity:0.878431"
+           d="m 110.5989,184.49268 10.16564,-0.60762 0.22839,6.12622 -5.06465,1.25061 -0.77513,22.00621 6.41854,-0.19382 0.003,6.39486 -11.78595,0 z"
+           inkscape:label="Henkel"
+           sodipodi:nodetypes="ccccccccc" />
+        <path
+           id="path14"
+           style="display:inline;fill:#f74900;fill-opacity:0.878431"
+           d="m 125.18169,170.51751 62.82572,-0.60762 0.60761,37.60946 -64.24349,1.21524 z"
+           inkscape:label="Top"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <path
+         id="path10"
+         style="display:inline;fill:#f74900;fill-opacity:0.878431"
+         d="m 129.435,117.85743 56.14194,0.20254 -22.68434,44.69831 -11.58342,-0.40507 z"
+         inkscape:label="Filter"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="rect1"
+         style="display:inline;fill:#f74900;fill-opacity:0.878431"
+         d="M 115.8649,101.04671 H 241.88272 V 111.1109 H 115.8649 Z"
+         inkscape:label="Top" />
+    </g>
     <g
        id="g4"
        style="stroke-width:5.53701;stroke-dasharray:none"
-       inkscape:label="Filterkaffee">
+       inkscape:label="Text: Filterkaffee">
       <g
          id="g3"
          style="display:inline;stroke-width:5.53701;stroke-dasharray:none"
