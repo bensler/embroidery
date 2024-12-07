@@ -9,6 +9,7 @@
    inkscape:version="1.4 (1:1.4+202410161351+e7c3feb100)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -23,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98660325"
-     inkscape:cx="207.27684"
-     inkscape:cy="365.9019"
+     inkscape:zoom="0.69763385"
+     inkscape:cx="259.44842"
+     inkscape:cy="374.12176"
      inkscape:document-units="mm"
      inkscape:current-layer="svg8"
      inkscape:document-rotation="0"
@@ -107,4 +108,43 @@
          inkscape:label="Kontur" />
     </g>
   </g>
+  <path
+     style="display:none;fill:none;stroke:#b30000;stroke-width:0.1;stroke-linecap:round;stroke-opacity:1"
+     id="path2"
+     sodipodi:type="arc"
+     sodipodi:cx="144.96579"
+     sodipodi:cy="-68.212502"
+     sodipodi:rx="111.23058"
+     sodipodi:ry="111.23058"
+     sodipodi:start="6.2817753"
+     sodipodi:end="6.2809783"
+     sodipodi:arc-type="arc"
+     d="M 256.19626,-68.369337 A 111.23058,111.23058 0 0 1 145.14479,43.017938 111.23058,111.23058 0 0 1 33.735389,-68.01134 111.23058,111.23058 0 0 1 144.74247,-179.44286 111.23058,111.23058 0 0 1 256.1961,-68.457988"
+     sodipodi:open="true"
+     transform="rotate(86.567835)"
+     sodipodi:insensitive="true" />
+  <text
+     xml:space="preserve"
+     style="font-size:16px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-opacity:1"
+     id="text2"
+     inkscape:label="Nach fest"
+     transform="translate(1.5170327,-5.3096143)"><textPath
+       xlink:href="#path2"
+       startOffset="50%"
+       id="textPath4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;display:inline">Nach fest</textPath></text>
+  <path
+     id="path5"
+     style="display:none;fill:none;stroke:#b30000;stroke-width:0.1;stroke-linecap:round"
+     d="M 73.14013,-50.492233 A 111.23058,111.23058 0 0 0 -35.955998,62.810863 111.23058,111.23058 0 0 0 77.325355,171.92954 111.23058,111.23058 0 0 0 186.46663,58.669945 111.23058,111.23058 0 0 0 73.228771,-50.493884" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-opacity:1"
+     id="text5"
+     transform="translate(0.37925816,2.6548072)"><textPath
+       xlink:href="#path5"
+       startOffset="50%"
+       id="textPath5"><tspan
+         id="tspan5"
+         style="stroke-width:0.1">kommt kaputt</tspan></textPath></text>
 </svg>
